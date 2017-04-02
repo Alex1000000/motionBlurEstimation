@@ -8,3 +8,4 @@ FFTWtest
 ==========
 
 It makes motion blur parametr estimation
+branch
